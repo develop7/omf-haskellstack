@@ -12,19 +12,17 @@
 ## Install
 
 ```fish
-$ omf install plugin-rustup
+$ omf install 'https://github.com/develop7/omf-haskellstack'
 ```
 
 # License
 
-[MIT][mit] © [andrewynhard][author] et [al][contributors]
+[MIT][mit] © 2017 [Andrei Dziahel][author]
 
 
 [mit]:            http://opensource.org/licenses/MIT
-[author]:         http://github.com/andrewrynhard
-[contributors]:   https://github.com/andrewrynhard/plugin-rustup/graphs/contributors
+[author]:         http://github.com/develop7
 [omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
-[haskellstack]:   https://haskellstack.org
 
 [license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
-[Rustup]:         https://github.com/rust-lang-nursery/rustup.rs.git
+[haskellstack]:   https://haskellstack.org
